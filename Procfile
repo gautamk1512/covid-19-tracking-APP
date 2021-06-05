@@ -1,2 +1,1 @@
-
-web: gunicorn c_prjt.wsgi
+web: gunicorn c_prj.wsgi
